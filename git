@@ -1,0 +1,4 @@
+git remote add origin https://github.com/Jossr3555/PAm.git
+git branch -M main
+git push -u origin main
+
